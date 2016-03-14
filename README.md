@@ -1,6 +1,6 @@
 ## Pre-trained word and phrase vectors
 ### Others
-- [agiga.bin]() : trained on [Annotated English Gigaword](https://catalog.ldc.upenn.edu/LDC2012T21). dim = 300
+- [agiga.bin](https://code.google.com/archive/p/word2vec/) : trained on [Annotated English Gigaword](https://catalog.ldc.upenn.edu/LDC2012T21). dim = 300
 
 
 ### [Word2Vec Homepage](https://code.google.com/archive/p/word2vec/)
